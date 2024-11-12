@@ -3,8 +3,8 @@
 //configuration options:
 
 	$protocol = "http://";
-	$vidsrc = "/assets/nosleep.mp4";
-	$explainer = "/pages/nosleepexplanation.php";
+	$vidsrc = "/nosleep.mp4";
+	$explainer = "/nosleepexplanation.php";
 
 	$fallback = "The invisible no-sleep video failed to load, leading to this obtrusive text.";
 
